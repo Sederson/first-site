@@ -1,0 +1,11 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.head {
+    background: #8a07b7;
+    height: 1000px;
+    width: 100%;  
+}
